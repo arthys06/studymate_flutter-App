@@ -1,8 +1,33 @@
-# StudyMate — Flutter Starter Scaffold
+# 📚 StudyMate - Flutter Student Companion App
 
-A full folder structure covering every module from the StudyMate concept, with
-working navigation between placeholder screens. No AI/backend logic is wired
-up yet — that's the next phase, module by module.
+StudyMate is a Flutter-based student companion application designed to help students manage their academic activities efficiently.
+
+The application provides a clean interface with modules like notes management, task tracking, and student productivity features.
+
+This project was developed as part of a Flutter Value Added Course and focuses on practical mobile application development using Flutter and Dart.
+
+---
+
+## ✨ Features
+
+- 📖 Notes Management
+- ✅ Task Management
+- 📅 Timetable Management
+- 🗄️ Database Integration
+- 📱 User-friendly Flutter UI
+- 👥 Team-based Project Development
+
+---
+
+## 🛠️ Technologies Used
+
+- Flutter
+- Dart
+- Android Studio
+- SQLite Database
+
+---
+
 
 ## ⚠️ Important: this replaces the React Native project from earlier
 
@@ -94,6 +119,28 @@ That confirms your whole toolchain works end to end. From here, build out one mo
 
 ---
 
+## 📱 Screenshots
+
+### Login Screen
+![Login Screen](screenshots/loginpage.png)
+
+### register Screen
+![Register Screen](screenshots/registerpage.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### profile
+![Profile](screenshots/profile.png)
+
+### calendar Screen
+![calendar Screen](screenshots/calendar.png)
+
+### Notes Screen
+![Notes Screen](screenshots/notes_screen.png)
+
+---
+
 ## Where things live
 
 ```
@@ -108,6 +155,16 @@ lib/
   features/                → one folder per module, each with screens/
   widgets/common/         → shared reusable widgets go here
 ```
+---
+
+## 👩‍💻 Author
+
+**Arthy S**
+
+B.Tech Student | Flutter Developer
+
+GitHub:
+https://github.com/arthys06
 
 ## Priority build order (matches the spec's investment guidance)
 
